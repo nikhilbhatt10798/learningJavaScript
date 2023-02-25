@@ -1,4 +1,4 @@
-// Array (non-premitive/reference data type) 
+// Array (non-premitive/reference data type) ===============
 // const arr = [1,2,3,4,54,545,6]
 // const newArr = arr // wrong method because array connot copy like premitive data type 
 // console.log('arr',arr)
